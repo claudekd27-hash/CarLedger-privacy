@@ -60,4 +60,4 @@ Bu gizlilik politikasi zaman zaman guncellenebilir. Guncel politika bu sayfada y
 Iletisim
 Gizlilik politikasi hakkinda sorulariniz icin bizimle iletisime gecebilirsiniz:
 
-E-posta: [E-posta adresinizi buraya yazin]
+E-posta: kdapps2@gmail.com
